@@ -1,6 +1,6 @@
-# Sistema de Huds
+# Sistema de Cinto
 
-⭕ [Aqui](https://github.com/Wortex-Store/Sistema-de-huds/wiki/Sistema-de-huds) você pode consultar todas as informações sobre o sistema de id.
+⭕ [Aqui](https://github.com/Wortex-Store/Sistema-de-cinto/wiki/Sistema-de-cinto) você pode consultar todas as informações sobre o sistema de cinto.
 
 📲 **Contatos:**
 
